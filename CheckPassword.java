@@ -1,6 +1,7 @@
+
 import java.util.*;  
 import java.lang.String;  
- 
+import java.lang.Character;  
 
 public class CheckPassword {  
    public static void main(String[] args) {  
